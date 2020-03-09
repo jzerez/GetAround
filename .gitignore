@@ -1,0 +1,4 @@
+data/*
+!data/Manhattan
+!data/Detroit
+!data/Amsterdam
